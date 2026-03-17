@@ -1,0 +1,671 @@
+Location,University,QS Rank,Program,Qualification
+UK,Imperial College London,2,Chemistry (F100),BSc
+UK,Imperial College London,2,Mathematics and Computer Science (GG14),MEng
+UK,Imperial College London,2,Biochemistry (C700),BSc
+UK,Imperial College London,2,Civil Engineering (H201),MEng
+UK,Imperial College London,2,Mathematics (G100),BSc
+UK,Imperial College London,2,Electronic and Information Engineering (GH56),MEng
+UK,Imperial College London,2,Computing (Artificial Intelligence and Machine Learning) (G700),MEng
+UK,Imperial College London,2,Biomedical Engineering (BH9C),MEng
+UK,Imperial College London,2,Civil Engineering (H201),MEng
+UK,Imperial College London,2,Medicine (A100),MBBS
+UK,Imperial College London,2,Physics (F303),MSci
+UK,Imperial College London,2,Medicine (A100),MBBS
+UK,University of Oxford,4,Philosophy, Politics and Economics (L0V0),BA
+UK,University of Oxford,4,Chemistry (F100),BSc
+UK,University of Oxford,4,Physics (F303),MPhys
+UK,University of Oxford,4,Economics and Management (LN12),BA
+UK,University of Cambridge,6,Veterinary Medicine (D100),VetMB
+UK,University of Cambridge,6,Law (M100),BA
+UK,University of Cambridge,6,Computer Science (G400),BA/MMath
+UK,University of Cambridge,6,Engineering (H100),BA (Hons) and MEng
+UK,University of Cambridge,6,Mathematics (G100),BA (Hons) and MMath
+UK,University of Cambridge,6,Engineering (H100),BA (Hons) and MEng
+UK,University of Cambridge,6,Computer Science (G400),BA (Hons) and MEng
+UK,University of Cambridge,6,Natural Sciences (BCF0),BA (Hons) and MSci
+UK,University of Cambridge,6,Engineering (H100),BA (Hons) and MEng
+UK,University of Cambridge,6,Psychological and Behavioural Sciences (C800),BA
+UK,University of Cambridge,6,Psychological and Behavioural Sciences (C800),BA (Hons)
+UK,UCL (University College London),9,Philosophy, Politics and Economics BSc (4V86),BSc
+UK,UCL (University College London),9,Chemistry (F100),BSc
+UK,UCL (University College London),9,Communications (P305),BA
+UK,UCL (University College London),9,Law (M100),LLB
+UK,UCL (University College London),9,Cancer Biomedicine (B800),MBChB
+UK,UCL (University College London),9,Applied Medical Sciences (9N53),BSc
+UK,UCL (University College London),9,Civil Engineering (H202),MEng
+UK,UCL (University College London),9,Electronic and Electrical Engineering (H600),BEng
+UK,UCL (University College London),9,Fine Art (4 years) (W100),BA
+UK,UCL (University College London),9,Computer Science (G400),BSc
+UK,UCL (University College London),9,International Management (N290),BSc
+UK,UCL (University College London),9,Biomedical Engineering (HC60),BEng
+UK,UCL (University College London),9,Civil Engineering (H200),BEng
+UK,UCL (University College London),9,Biomedical Science (B900),BSc
+UK,UCL (University College London),9,Biomedical science,MBBS
+UK,UCL (University College London),9,International Management (N290),BSc
+UK,UCL (University College London),9,Psychology (C800),BSc
+HK,The University of Hong Kong,11,Computing and Data Science,BSc
+HK,The University of Hong Kong,11,Bachelor of Business Administration in Accounting and Finance / Bachelor of Business Administration in Accounting Data Analytics,BBA
+HK,The University of Hong Kong,11,Bachelor of Engineering in Computer Engineering / Electrical Engineering / Electronic Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Laws,LLB
+HK,The University of Hong Kong,11,Bachelor of Social Sciences (Government and Laws) and Bachelor of Laws,BSSc
+HK,The University of Hong Kong,11,Bachelor of Business Administration (Law) and Bachelor of Laws,BBA
+HK,The University of Hong Kong,11,Bachelor of Journalism, Media and Artificial Intelligence,BA
+HK,The University of Hong Kong,11,Bachelor of Business Administration,BBA
+HK,The University of Hong Kong,11,Bachelor of Economics / Bachelor of Economics and Finance,BSc
+HK,The University of Hong Kong,11,Bachelor of Business Administration	,BBA
+HK,The University of Hong Kong,11,Bachelor of Arts in Global Creative Industries,BA
+HK,The University of Hong Kong,11,Bachelor of Arts,BA
+HK,The University of Hong Kong,11,Bachelor of Pharmacy,BPharm
+HK,The University of Hong Kong,11,Bachelor of Biomedical Sciences,BSc
+HK,The University of Hong Kong,11,Bachelor of Science,BSc
+HK,The University of Hong Kong,11,Bachelor of Business Administration in Accounting and Finance / Bachelor of Business Administration in Accounting Data Analytics,BBA
+HK,The University of Hong Kong,11,Bachelor of Economics / Bachelor of Economics and Finance,BSc
+HK,The University of Hong Kong,11,Bachelor of Business Administration (Law) and Bachelor of Laws,LLB
+HK,The University of Hong Kong,11,Bachelor of Nursing Advanced Leadership Track,BSc
+HK,The University of Hong Kong,11,Bachelor of Nursing,BSc
+HK,The University of Hong Kong,11,Bachelor of Science,
+HK,The University of Hong Kong,11,Bachelor of Laws,LLB
+HK,The University of Hong Kong,11,Bachelor of Science and Bachelor of Laws,BSc & LLB
+HK,The University of Hong Kong,11,Bachelor of Social Sciences (Government and Laws) and Bachelor of Laws,BSSc & LLB
+HK,The University of Hong Kong,11,Bachelor of Science in Speech-Language Pathology,BSc
+HK,The University of Hong Kong,11,Bachelor of Arts and Bachelor of Education in Language Education - English,BEd
+HK,The University of Hong Kong,11,Bachelor of Science in Speech-Language Pathology,BSc
+HK,The University of Hong Kong,11,Bachelor of Psychology,MA (Hons)
+HK,The University of Hong Kong,11,Bachelor of Social Sciences,BSSc
+HK,The University of Hong Kong,11,Computing and Data Science,MEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Civil Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Mechanical Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Biomedical Sciences,BSc
+HK,The University of Hong Kong,11,Bachelor of Science,
+HK,The University of Hong Kong,11,Bachelor of Engineering in Biomedical Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Science in Quantitative Finance,BSc
+HK,The University of Hong Kong,11,Bachelor of Engineering in Civil Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Science in Actuarial Science,
+HK,The University of Hong Kong,11,Bachelor of Business Administration,BBA
+HK,The University of Hong Kong,11,Bachelor of Economics / Bachelor of Economics and Finance,BSc
+HK,The University of Hong Kong,11,Bachelor of Science,BSc
+HK,The University of Hong Kong,11,Bachelor of Engineering in Mechanical Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Computer Engineering / Electrical Engineering / Electronic Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Computer Engineering / Electrical Engineering / Electronic Engineering,BEng
+HK,The University of Hong Kong,11,Computing and Data Science,MEng
+HK,The University of Hong Kong,11,Bachelor of Engineering and Master of Science in Engineering in Artificial Intelligence in Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Mechanical Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Civil Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Computer Engineering / Electrical Engineering / Electronic Engineering,BEng
+HK,The University of Hong Kong,11,Pharmacy,MPharm
+HK,The University of Hong Kong,11,Nursing,BSc
+HK,The University of Hong Kong,11,Psychology,MA (Hons)
+HK,The University of Hong Kong,11,Bachelor of Science,
+HK,The University of Hong Kong,11,Bachelor of Pharmacy,MPharm
+HK,The University of Hong Kong,11,Bachelor of Education and Bachelor of Science,BEd
+HK,The University of Hong Kong,11,Bachelor of Education and Bachelor of Science,BEd
+HK,The University of Hong Kong,11,Bachelor of Science,
+HK,The University of Hong Kong,11,Statistical Decision Sciences,
+HK,The University of Hong Kong,11,Bachelor of Arts and Sciences in Design+,BA
+HK,The University of Hong Kong,11,Bachelor of Arts in Global Creative Industries,
+HK,The University of Hong Kong,11,Computing and Data Science,BSc
+HK,The University of Hong Kong,11,Bachelor of Arts and Sciences in Applied Artificial Intelligence,BEng
+HK,The University of Hong Kong,11,Bachelor of Arts and Bachelor of Engineering in Artificial Intelligence and Data Science,BEng
+HK,The University of Hong Kong,11,Bachelor of Dental Surgery,BDent
+HK,The University of Hong Kong,11,Bachelor of Biomedical Sciences,BSc
+HK,The University of Hong Kong,11,Bachelor of Pharmacy,MPharm
+HK,The University of Hong Kong,11,Bachelor of Social Sciences,BSSc
+HK,The University of Hong Kong,11,Bachelor of Arts in Urban Studies,BSSc
+HK,The University of Hong Kong,11,Bachelor of Economics / Bachelor of Economics and Finance,BSc
+HK,The University of Hong Kong,11,Bachelor of Nursing,BSc
+HK,The University of Hong Kong,11,Bachelor of Arts and Bachelor of Education in Language Education - English,BEd
+HK,The University of Hong Kong,11,Bachelor of Engineering in Biomedical Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Biomedical Sciences,BSc
+HK,The University of Hong Kong,11,Bachelor of Engineering in Mechanical Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Civil Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Mechanical Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering Elite Programme,BEng
+HK,The University of Hong Kong,11,Bachelor of Science in Surveying,
+HK,The University of Hong Kong,11,Bachelor of Arts in Landscape Studies,
+HK,The University of Hong Kong,11,Bachelor of Social Work,BSSc
+HK,The University of Hong Kong,11,Bachelor of Arts and Sciences in Global Health and Development,BA & BSc
+HK,The University of Hong Kong,11,Bachelor of Science,BSc
+HK,The University of Hong Kong,11,Bachelor of Nursing,BNurs
+HK,The University of Hong Kong,11,Bachelor of Science,
+HK,The University of Hong Kong,11,Bachelor of Arts in Architectural Studies,
+HK,The University of Hong Kong,11,Bachelor of Nursing,BSc
+HK,The University of Hong Kong,11,Bachelor of Business Administration,BBA
+HK,The University of Hong Kong,11,Bachelor of Journalism, Media and Artificial Intelligence,BA
+HK,The University of Hong Kong,11,Bachelor of Social Sciences,BSSc
+HK,The University of Hong Kong,11,Bachelor of Biomedical Science,BSc
+HK,The University of Hong Kong,11,Bachelor of Science,
+HK,The University of Hong Kong,11,Bachelor of Nursing,BSc
+HK,The University of Hong Kong,11,Bachelor of Engineering in Mechanical Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Biomedical Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Engineering in Civil Engineering,BEng
+HK,The University of Hong Kong,11,Bachelor of Medicine and Bachelor of Surgery,MBBS
+HK,The University of Hong Kong,11,Bachelor of Biomedical Sciences,BSc
+HK,The University of Hong Kong,11,Bachelor of Pharmacy,BSc
+HK,The University of Hong Kong,11,Science Master Class,
+HK,The University of Hong Kong,11,Bachelor of Engineering Elite Programme,BEng
+HK,The University of Hong Kong,11,Bachelor of Arts and Science in Applied Artificial Intelligence,BEng
+HK,The University of Hong Kong,11,Bachelor of Science in Speech-Language Pathology,BSc
+HK,The University of Hong Kong,11,Bachelor of Social Sciences,BSSc
+HK,The University of Hong Kong,11,Bachelor of Psychology,BPsych
+HK,The University of Hong Kong,11,Bachelor of Business Administration in International Business and Global Management,BBA
+HK,The University of Hong Kong,11,Bachelor of Business Administration,BBA
+HK,The University of Hong Kong,11,Bachelor of Economics / Bachelor of Economics and Finance,BSc
+HK,The University of Hong Kong,11,Bachelor of Medicine and Bachelor of Surgery,MBChB
+HK,The University of Hong Kong,11,Bachelor of Social Sciences (Government and Laws) and Bachelor of Laws,LLB
+HK,The University of Hong Kong,11,Bachelor of Science and Bachelor of Laws,LLB
+HK,The University of Hong Kong,11,Bachelor of Psychology,BSc
+HK,The University of Hong Kong,11,Bachelor of Science,BSc
+HK,The University of Hong Kong,11,Bachelor of Social Sciences,BSoSc
+US,University of California, Berkeley (UCB),17,Spieker Undergraduate Business Program B.S.,
+Alternative: Intending a major in Social Sciences division",
+CA,University of Toronto,29,life sciences,
+CA,University of Toronto,29,chemical and physical sciences,
+UK,King's College London,31,Philosophy, Politics and Economics (L0V0),BA
+UK,King's College London,31,Neuroscience (B140),BSc
+UK,King's College London,31,Law (M100),LLB
+UK,King's College London,31,Digital Media and Culture (P390),BA
+UK,King's College London,31,Nursing with Registration as an Adult Nurse (B740),BSc
+UK,King's College London,31,Law (M100),LLB
+UK,King's College London,31,Physiotherapy (B160),BSc
+UK,King's College London,31,Biochemistry (C700),BSc
+UK,King's College London,31,Mathematics (G100),BSc
+UK,King's College London,31,Artificial Intelligence (G700),BSc
+UK,King's College London,31,Biomedical Science (BC99),BSc
+UK,King's College London,31,Biomedical Engineering (H160),BEng
+UK,King's College London,31,Physiotherapy (B160),BSc
+UK,King's College London,31,Business Management with Year in Industry (N201),BSc
+UK,King's College London,31,Biomedical Science (BC99),BSc
+UK,King's College London,31,Medicine (A100),MBBS
+UK,King's College London,31,Psychology (C800),BSc
+UK,King's College London,31,Medicine (A100),MBBS
+UK,King's College London,31,Biomedical Science (BC99),BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Risk Management Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Computer Science and Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Computational Data Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Bachelor of Law,LLB
+HK,The Chinese University of Hong Kong (CUHK),32,Integrated BBA Program and Juris Doctor,BBA-JD
+HK,The Chinese University of Hong Kong (CUHK),32,Global Studies,BA
+HK,The Chinese University of Hong Kong (CUHK),32,Journalism and communication,BA
+HK,The Chinese University of Hong Kong (CUHK),32,BBA,BBA
+HK,The Chinese University of Hong Kong (CUHK),32,Global Communication,BA
+HK,The Chinese University of Hong Kong (CUHK),32,Integrated Bachelor of Business Administration,BBA
+HK,The Chinese University of Hong Kong (CUHK),32,Psychology,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Journalism and Communication,BA
+HK,The Chinese University of Hong Kong (CUHK),32,Journalism and Communication,BComm
+HK,The Chinese University of Hong Kong (CUHK),32,Pharmacy,BPharm
+HK,The Chinese University of Hong Kong (CUHK),32,Biomedical Sciences,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Global Economics and Finance,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Insurance, Financial and Actuarial Analysis,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Professional Accountancy,BBA
+HK,The Chinese University of Hong Kong (CUHK),32,Nursing,BNurs
+HK,The Chinese University of Hong Kong (CUHK),32,Public Health,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Bachelor of Laws,LLB
+HK,The Chinese University of Hong Kong (CUHK),32,Integrated BBA Programme and Juris Doctor,BBA & Juri
+HK,The Chinese University of Hong Kong (CUHK),32,Physical Education, Exercise Science and Health,BEd
+HK,The Chinese University of Hong Kong (CUHK),32,Psychology,BSSc
+HK,The Chinese University of Hong Kong (CUHK),32,Human Movement Science and Health Studies,
+HK,The Chinese University of Hong Kong (CUHK),32,Computer Science and Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Mathematics and Mathematics Education,BSc/BEd
+HK,The Chinese University of Hong Kong (CUHK),32,Mechanical and Automation Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Biomedical Sciences,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Pharmacy,BPharm
+HK,The Chinese University of Hong Kong (CUHK),32,Integrated Bachelor of Business Administration,BBA
+HK,The Chinese University of Hong Kong (CUHK),32,Economics,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Enrichment Mathematics,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Mechanical and Automation Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Computer Science and Engineering,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Information Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Electronic Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Pharmacy,BPharm
+HK,The Chinese University of Hong Kong (CUHK),32,Nursing,BNurs
+HK,The Chinese University of Hong Kong (CUHK),32,Public Health,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Pharmacy,BPharm
+HK,The Chinese University of Hong Kong (CUHK),32,Psychology,BSSc
+HK,The Chinese University of Hong Kong (CUHK),32,Enrichment Mathematics,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Mathematics and Mathematics Education,BSc & BEd
+HK,The Chinese University of Hong Kong (CUHK),32,Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Fine Arts,BA
+HK,The Chinese University of Hong Kong (CUHK),32,Artificial Intelligence: Systems and Technologies,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Computer Science and Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Information Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Biomedical Sciences,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Nursing,BNurs
+HK,The Chinese University of Hong Kong (CUHK),32,Pharmacy,MPharm
+HK,The Chinese University of Hong Kong (CUHK),32,Integrated Bachelor of Business Administration,iBBA
+HK,The Chinese University of Hong Kong (CUHK),32,Hospitality and Real Estate,
+HK,The Chinese University of Hong Kong (CUHK),32,Professional Accountancy,BBA
+HK,The Chinese University of Hong Kong (CUHK),32,Geography and Resource Management,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Urban Studies,BSSc
+HK,The Chinese University of Hong Kong (CUHK),32,Integrated Bachelor of Business Administration,BBA
+HK,The Chinese University of Hong Kong (CUHK),32,Financial Technology,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Risk Management Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Nursing,BNurs
+HK,The Chinese University of Hong Kong (CUHK),32,English Studies (B.A.) and English Language Education (B.Ed.),BA & BEd
+HK,The Chinese University of Hong Kong (CUHK),32,Early Childhood Education,BEd
+HK,The Chinese University of Hong Kong (CUHK),32,Biomedical Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Biomedical Sciences,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Mechanical and Automation Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Nursing,BNurs
+HK,The Chinese University of Hong Kong (CUHK),32,Social Work,BSSc
+HK,The Chinese University of Hong Kong (CUHK),32,Chinese Medicine,BChMed
+HK,The Chinese University of Hong Kong (CUHK),32,English,BA
+HK,The Chinese University of Hong Kong (CUHK),32,English Studies (B.A.) and English Language Education (B.Ed.),BA & BEd
+HK,The Chinese University of Hong Kong (CUHK),32,Global Communication,BA
+HK,The Chinese University of Hong Kong (CUHK),32,Nursing,BNurs
+HK,The Chinese University of Hong Kong (CUHK),32,Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Pharmacy,BPharm
+HK,The Chinese University of Hong Kong (CUHK),32,Nursing,BNurs
+HK,The Chinese University of Hong Kong (CUHK),32,Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Social Science,BSSc
+HK,The Chinese University of Hong Kong (CUHK),32,Pharmacy,MPharm
+HK,The Chinese University of Hong Kong (CUHK),32,Law,LLB
+HK,The Chinese University of Hong Kong (CUHK),32,Integrated Bachelor of Business Administration,IBBA
+HK,The Chinese University of Hong Kong (CUHK),32,Journalism and Communication,BA
+HK,The Chinese University of Hong Kong (CUHK),32,Social Science,BSSc
+HK,The Chinese University of Hong Kong (CUHK),32,Biomedical Sciences,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Biotechnology, Entrepreneurship and Healthcare Management,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Mechanical and Automation Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Materials Science and Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Biomedical Engineering,BEng
+HK,The Chinese University of Hong Kong (CUHK),32,Medicine,MBChB
+HK,The Chinese University of Hong Kong (CUHK),32,Biomedical Sciences,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Pharmacy,BPharm
+HK,The Chinese University of Hong Kong (CUHK),32,Quantitative Finance and Risk Management Science,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Mathematics and Information Engineering,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Enrichment Stream in Theoretical Physics,MSci
+HK,The Chinese University of Hong Kong (CUHK),32,Psychology,BSSc
+HK,The Chinese University of Hong Kong (CUHK),32,Global Business Studies,GBus
+HK,The Chinese University of Hong Kong (CUHK),32,Integrated Bachelor of Business Administration,IBBA
+HK,The Chinese University of Hong Kong (CUHK),32,Global Economics and Finance,BSc
+HK,The Chinese University of Hong Kong (CUHK),32,Bachelor of Laws,LLB
+HK,The Chinese University of Hong Kong (CUHK),32,Integrated BBA Programme and Juris Doctor,IBBA & Juri
+HK,The Chinese University of Hong Kong (CUHK),32,Psychology,BSSc
+UK,The University of Edinburgh,34,Veterinary Medicine (D100),BVM&S
+UK,The University of Edinburgh,34,Fine Art (BAFA),BA
+UK,The University of Edinburgh,34,Computer Science (G401),BSc/MEng
+UK,The University of Edinburgh,34,Fine Art (BAFA),BA
+UK,The University of Edinburgh,34,Artificial Intelligence & Computer Science (GG47),BSc
+UK,The University of Edinburgh,34,Business Management (N100),BSc
+UK,The University of Edinburgh,34,Civil Engineering (H200),BEng
+UK,The University of Edinburgh,34,Biomedical Sciences (B100),BSc
+UK,The University of Edinburgh,34,Psychology (C802),MA (Hons)
+UK,The University of Manchester,35,Politics, Philosophy and Economics (LV25),BA
+UK,The University of Manchester,35,Zoology (4 years) [MSci] (3F49),MSci
+UK,The University of Manchester,35,Computer Science (G400),BSc
+UK,The University of Manchester,35,Neuroscience (B140),BSc
+UK,The University of Manchester,35,Management (Marketing) (N2N5),BSc
+UK,The University of Manchester,35,Finance (N300),BSc
+UK,The University of Manchester,35,Adult Nursing (B740),BSc
+UK,The University of Manchester,35,Computer Science (G400),BSc/MEng
+UK,The University of Manchester,35,Civil Engineering (H201),MEng
+UK,The University of Manchester,35,Pharmacy (B230),MPharm
+UK,The University of Manchester,35,Management (N201),BSc
+UK,The University of Manchester,35,Management (Marketing) with Industrial/Professional Experience (N2N6),BSc
+UK,The University of Manchester,35,Medicine (A106),MBChB
+UK,The University of Manchester,35,Psychology (C800),BSc
+UK,The University of Manchester,35,Management (International Business Economics)WIE (N248),BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : Department of Computer Science and Engineering,BSc
+Alternative : BEng in Computer Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : BSc in Risk Management and Business Intelligence,BSc
+Alternative : Business and Management",BSc
+HK,The Hong Kong University of Science and Technology,44,Business and Management,BBA
+HK,The Hong Kong University of Science and Technology,44,2 : BSc in Global China Studies,BSc
+Alternative : BSc in Quantitative Social Analysis",BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : BBA in Management,BSc
+Alternative : Business and Management",BBA
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : BBA in Marketing,BSc
+Alternative : Business and Management",BBA
+HK,The Hong Kong University of Science and Technology,44,Business and Management,BSc
+HK,The Hong Kong University of Science and Technology,44,BSc Finanace,
+Alternative: Business and Management",BSc
+HK,The Hong Kong University of Science and Technology,44,Computer Science and Engineering,BSc
+Alternative : Department of Mechanical and Aerospace Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,2 : Department of Civil and Environmental Engineering,BEng
+Alternative : Department of Mechanical and Aerospace Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Alternative : Science (Group B),
+Rejected: BSc in Biomedical and Health Sciences
+",BSc
+HK,The Hong Kong University of Science and Technology,44,Alternative : Science (Group B),
+Rejected: BSc in Biotechnology and Business
+",BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : BSc in Quantitative Finance,BSc
+Alternative : Business and Management",BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : Department of Civil and Environmental Engineering,BEng
+Alternative : Department of Computer Science and Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Business and Management,BBA
+HK,The Hong Kong University of Science and Technology,44,BBA in Management,BBA
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : Science (Group A),BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : Department of Mechanical and Aerospace Engineering,BEng
+Alternative : Department of Electronic and Computer Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : BEng in Computer Engineering,BEng
+Alternative : Department of Electronic and Computer Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : Department of Computer Science and Engineering,BSc
+Alternative : Department of Mechanical and Aerospace Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : Department of Mechanical and Aerospace Engineering,BEng
+Alternative : Department of Electronic and Computer Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : Department of Civil and Environmental Engineering,BEng
+Alternative : Department of Computer Science and Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : International Research Enrichment,
+Alternative : Science (Group B)",BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : BSc in Biomedical and Health Sciences,
+Alternative : Science (Group B)",BSc
+HK,The Hong Kong University of Science and Technology,44,Science (Group A),BSc
+HK,The Hong Kong University of Science and Technology,44,Mathematics and Economics,BSc
+HK,The Hong Kong University of Science and Technology,44,Department of Computer Science and Engineering,BSc
+Alternative : BEng in Computer Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : Engineering with Extended Major in Artificial Intelligence,BEng
+Alternative : Department of Electronic and Computer Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Alternative: Business and Management,BSc
+Choice 1: BBA Management",BBA
+HK,The Hong Kong University of Science and Technology,44,Alternative : Business and Management,BSc
+Choice 2 : BBA in Marketing
+",BBA
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : BSc in Environmental Management and Technology,BSc
+Alternative : Business and Management",BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : BSc in Sustainable and Green Finance,BSc
+Alternative : Business and Management",BSc
+HK,The Hong Kong University of Science and Technology,44,Science (Group B),
+HK,The Hong Kong University of Science and Technology,44,BSc in Biomedical and Health Sciences,
+HK,The Hong Kong University of Science and Technology,44,Alternative : Science (Group B),
+Choice 1 : BSc in Biomedical and Health Sciences",BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : Department of Chemical and Biological Engineering,BEng
+Alternative : Department of Mechanical and Aerospace Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Department of Civil and Environmental Engineering,BEng
+Rejected by: Department of Electronic and Computer Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,2 : Department of Mechanical and Aerospace Engineering,BEng
+Alternative : Department of Electronic and Computer Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Science (Group B),
+Rejected by: BSc in Biomedical and Health Sciences",BSc
+HK,The Hong Kong University of Science and Technology,44,Science (Group B),
+Rejected: BSc in Biotechnology and Business",BSc
+HK,The Hong Kong University of Science and Technology,44,Science (Group B),BSc
+HK,The Hong Kong University of Science and Technology,44,BSc in Environmental Management and Technology,BSc
+Alternative: Science (Group A)",BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : BSc in Biomedical and Health Sciences,
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : BBA in Finance,BSc
+Alternative : Business and Management",
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : BBA in Marketing,BSc
+Rejected by:  Business and Management",BBA
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : BBA in Management,BSc
+Rejected by: Business and Management",BBA
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : BSc in Biomedical and Health Sciences,BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : Science (Group B),BSc
+HK,The Hong Kong University of Science and Technology,44,Choice 1 : Department of Mechanical and Aerospace Engineering,BEng
+Alternative : Department of Industrial Engineering and Decision Analytics",BEng
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : Department of Civil and Environmental Engineering,BEng
+ Alternative : Department of Chemical and Biological Engineering",BEng
+HK,The Hong Kong University of Science and Technology,44,Science (Group A),
+Rejected by: International Research Enrichment",
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : BSc in Quantitative Finance,BSc
+HK,The Hong Kong University of Science and Technology,44,Alternative : Business and Management,BSc
+Choice 1 : BBA in Global Business",BBA
+HK,The Hong Kong University of Science and Technology,44,Choice 2 : BBA in Management,BSc
+Alternative : Business and Management",BBA
+US,University of California, Los Angeles (UCLA),46,Business Economics (Pre), B.A.,BSc
+UK,University of Bristol,51,Computer Science (G400),BSc
+UK,University of Bristol,51,Law (M100),LLB
+UK,University of Bristol,51,Computer Science with Artificial Intelligence (G405),BSc/MEng
+UK,University of Bristol,51,Cellular and Molecular Medicine (B133),MBChB
+UK,University of Bristol,51,Civil Engineering (H200),BEng
+UK,University of Bristol,51,Mathematics (G100),BSc
+UK,University of Bristol,51,Electrical and Electronic Engineering (H600),BEng
+UK,University of Bristol,51,Biomedical Sciences (C190),BSc
+UK,University of Bristol,51,Civil Engineering (H205),BEng
+UK,University of Bristol,51,Veterinary Science (D100),BVSc
+UK,University of Bristol,51,Veterinary Nursing and Companion Animal Behaviour (D313),BSc
+NL,University of Amsterdam,53,Communication,BA
+HK,The Hong Kong Polytechnic University,54,Computer and Mathematical Sciences - Bachelor's Degree Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,Computing and AI (Computer Science / Enterprise Information Systems) - BSc (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,English and Applied Linguistics,BA (Hons)
+HK,The Hong Kong Polytechnic University,54,Speech Therapy,BSc (Hons)
+HK,The Hong Kong Polytechnic University,54,Management and Marketing (Management / Marketing) - BBA (Hons) Scheme,BBA
+HK,The Hong Kong Polytechnic University,54,Global Business and Logistics, Aviation, Maritime, and Supply Chain Management - BBA (Hons) Scheme,BBA
+HK,The Hong Kong Polytechnic University,54,Management and Marketing (Management / Marketing) - BBA (Hons) Scheme,BBA
+HK,The Hong Kong Polytechnic University,54,Product Innovation and Smart Manufacturing (Product Innovation with Marketing / Smart Manufacturing) - BEng (Hons) Scheme,BEng
+HK,The Hong Kong Polytechnic University,54,Medical Laboratory Science - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Physiotherapy - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Accounting and Finance (Accountancy / Accounting and Finance / Digital Finance and Investment) - BBA (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,Global Business and Logistics, Aviation, Maritime, and Supply Chain Management - BBA (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,nursing,BSc
+HK,The Hong Kong Polytechnic University,54,Mental Health Nursing,BSc
+HK,The Hong Kong Polytechnic University,54,Speech Therapy - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,English and Applied Linguistics - BA (Hons),BA
+HK,The Hong Kong Polytechnic University,54,Physiotherapy - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Occupational Therapy - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Civil Engineering - BEng (Hons),BEng
+HK,The Hong Kong Polytechnic University,54,Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering) - BEng (Hons) Scheme,BEng
+HK,The Hong Kong Polytechnic University,54,Medical Laboratory Science - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Biotechnology and Chemical Technology - BSc (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,Design (Advertising Design / Environmental Design / Information Design / Interaction Design / Interior Design / Media Design / Product Design / Service Design / Social Design),BA
+HK,The Hong Kong Polytechnic University,54,Management and Marketing (Management / Marketing),BBA
+HK,The Hong Kong Polytechnic University,54,Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering) - BEng (Hons) Scheme,BEng
+HK,The Hong Kong Polytechnic University,54,Civil Engineering - BEng (Hons),BEng
+HK,The Hong Kong Polytechnic University,54,Science - Bachelor's Degree Scheme,
+HK,The Hong Kong Polytechnic University,54,Food Science and Nutrition (Food Safety and Technology / Human Nutrition and Health) - BSc (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,Design (Advertising Design / Environmental Design / Information Design / Interaction Design / Interior Design / Media Design / Product Design / Service Design / Social Design) - BA (Hons) Scheme,BA
+HK,The Hong Kong Polytechnic University,54,Physiotherapy,BSc (Hons)
+HK,The Hong Kong Polytechnic University,54,Nursing,BSc (Hons)
+HK,The Hong Kong Polytechnic University,54,Intelligent Supply Chain and Engineering Management (Intelligent Supply Chain / Engineering Management with Data Analytics / Aviation Operations and Systems) - BSc (Hons) Scheme,BEng
+HK,The Hong Kong Polytechnic University,54,Spatial Data Science and Smart Cities (Land Surveying and Geo-Informatics / Urban Informatics and Smart Cities) - BSc (Hons) Scheme,
+HK,The Hong Kong Polytechnic University,54,Accounting and Finance (Accountancy / Accounting and Finance / Digital Finance and Investment) - BBA (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,Applied Mathematics and Finance Analytics (Applied Mathematics / Investment Science and Finance Analytics / Quantitative Finance and FinTech) - BSc (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,Mental Health Nursing - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Nursing - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Biomedical Engineering - BSc (Hons),BEng
+HK,The Hong Kong Polytechnic University,54,Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering) - BEng (Hons) Scheme,BEng
+HK,The Hong Kong Polytechnic University,54,Civil Engineering - BEng (Hons),BEng
+HK,The Hong Kong Polytechnic University,54,Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering) - BEng (Hons) Scheme,BEng
+HK,The Hong Kong Polytechnic University,54,Physiotherapy - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Occupational Therapy - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Nursing,BNurs
+HK,The Hong Kong Polytechnic University,54,Occupational Therapy,BSc
+HK,The Hong Kong Polytechnic University,54,Nursing - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Food Science and Nutrition (Food Safety and Technology / Human Nutrition and Health) - BSc (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,Optometry - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Occupational Therapy - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Management and Marketing (Management / Marketing) - BBA (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,Hotel and Tourism Management (Hotel Management / Smart Tourism and Hospitality / Event and Experience Management) - BSc (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,Biotechnology and Chemical Technology - BSc (Hons) Scheme,BSc
+HK,The Hong Kong Polytechnic University,54,Medical Laboratory Science - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering) - BEng (Hons) Scheme,BEng
+HK,The Hong Kong Polytechnic University,54,Aviation Engineering (Aeronautical Engineering / Air Transport Engineering) - BEng (Hons) Scheme,BEng
+HK,The Hong Kong Polytechnic University,54,Radiography,BSc (Hons)
+HK,The Hong Kong Polytechnic University,54,Biotechnology and Chemical Technology,BSc (Hons)
+HK,The Hong Kong Polytechnic University,54,Speech Therapy - BSc (Hons),BSc
+HK,The Hong Kong Polytechnic University,54,Applied Social Sciences (Social Work/ Social Policy and Social Entrepreneurship) - BA (Hons) Scheme,BSSc
+UK,The London School of Economics and Political Science (LSE),56,Philosophy, Politics and Economics (L0V0),BSc
+UK,The London School of Economics and Political Science (LSE),56,Accounting & Finance (NN34),BSc
+UK,The London School of Economics and Political Science (LSE),56,Management (N200),BSc
+UK,The London School of Economics and Political Science (LSE),56,Psychological and Behavioural Science (C800),BSc
+UK,The London School of Economics and Political Science (LSE),56,Management (N200),BSc
+UK,The London School of Economics and Political Science (LSE),56,Psychological and Behavioural Science (C800),BSc
+HK,City University of Hong Kong,63,Bachelor of Laws and BBA Accountancy (Double Degree),LLB & BBA
+HK,City University of Hong Kong,63,Bachelor of Laws,LLB
+HK,City University of Hong Kong,63,BSocSc Public Affairs and Management (Streams: Public Affairs and Governance / Public Policy and Management),BSocSc
+HK,City University of Hong Kong,63,BSocSc International Relations and Global Affairs (Streams: Asian Studies / International Studies / Development Studies) with Columbia,BSocSc
+HK,City University of Hong Kong,63,BSocSc Crime Science and Bachelor of Laws (Double Degree),BSocSc
+HK,City University of Hong Kong,63,BBA Global Business (Features: 3 Exchanges/Joint Bachelor’s Degree Program with Columbia University (US)/Overseas Summer School & Study Tour/Business Consultancy Project/Scholarship and Sponsorship),BBA
+HK,City University of Hong Kong,63,Media and Communication (Majors: BA Digital Television and Broadcasting / BA Media and Communication),BA
+HK,City University of Hong Kong,63,BBA Marketing (Streams: Global Marketing / Marketing Analytics),BBA
+HK,City University of Hong Kong,63,BBA Management (Streams: Human Resources Management / Strategy and International Management),BBA
+HK,City University of Hong Kong,63,Media and Communication (Majors: BA Digital Television and Broadcasting / BA Media and Communication),BA
+HK,City University of Hong Kong,63,BA Creative Media (Features: Animation / Cinema & Photography / Critical Theory & Practices / Game & Playable Media / New Media Art / Sound Art),BA
+HK,City University of Hong Kong,63,BSc Biomedical Sciences (Features: Clinical Chemistry, Hematology, Microbiology and Pathology / Clinical or Industrial Attachment / Intensive Laboratory Experience),BSc
+HK,City University of Hong Kong,63,BSc Chemistry (Streams: Comprehensive Chemistry / Cosmetic Chemistry / Forensic Chemistry / Global Research Enrichment and Technopreneurship (GREAT)),BSc
+HK,City University of Hong Kong,63,BSocSc Crime Science and Bachelor of Laws (Double Degree),LLB
+HK,City University of Hong Kong,63,Bachelor of Laws,LLB
+HK,City University of Hong Kong,63,BA English (Streams: English and Professional Communication / Language and Literature),BA
+HK,City University of Hong Kong,63,BA Linguistics and Language Applications,BA
+HK,City University of Hong Kong,63,BBA Management (Streams: Human Resources Management / Strategy and International Management),BSc
+HK,City University of Hong Kong,63,BBA Global Business (Features: 3 Exchanges/Joint Bachelor’s Degree Program with Columbia University (US)/Overseas Summer School & Study Tour/Business Consultancy Project/Scholarship and Sponsorship),BBA
+HK,City University of Hong Kong,63,BSc Computer Science (Streams: Artificial Intelligence / Cybersecurity / Data Science / Multimedia Computing / Software Engineering and Project Management),BSc
+HK,City University of Hong Kong,63,BBA Management (Streams: Human Resources Management / Strategy and International Management),BBA
+HK,City University of Hong Kong,63,Economics and Finance (Majors: BBA Business Economics / BBA Finance),BBA
+HK,City University of Hong Kong,63,Pathway for Research, Innovation, and Multinational Engineering (PRIME) (any major in College of Engineering + Overseas Experience / Interdisciplinary / Entrepreneurial Training),BEng
+HK,City University of Hong Kong,63,Electrical Engineering (Majors: BEng Computer and Data Engineering / BEng Electronic and Electrical Engineering / BEng Information Engineering / BEng Microelectronics Engineering),BEng
+HK,City University of Hong Kong,63,Mechanical Engineering,BEng
+HK,City University of Hong Kong,63,BSc Chemistry (Streams: Comprehensive Chemistry / Cosmetic Chemistry / Forensic Chemistry / Global Research Enrichment and Technopreneurship (GREAT)),BSc
+HK,City University of Hong Kong,63,BSc Computing Mathematics (Streams: Enriched Mathematics / Financial Mathematics / Global Research Enrichment and Technopreneurship (GREAT)),BSc
+HK,City University of Hong Kong,63,Bachelor of Veterinary Medicine (Features: One Health / Animal Health & Welfare / Public Health / Dual Accreditation),BVMS
+HK,City University of Hong Kong,63,BBA Management (Streams: Human Resources Management / Strategy and International Management),BSc
+HK,City University of Hong Kong,63,BBA Marketing (Streams: Global marketing / Marketing Analytics),BSc
+HK,City University of Hong Kong,63,Economics and Finance (Majors: BBA Business Economics / BBA Finance),BSc
+HK,City University of Hong Kong,63,BSc Environment and Sustainable Business (Features: Environmental Science / Business Sustainability / Environmental, Social & Governance (ESG)),
+HK,City University of Hong Kong,63,Economics and Finance (Majors: BBA Business Economics / BBA Finance),BSc
+HK,City University of Hong Kong,63,Architecture and Civil Engineering (Majors: BEng Architectural Engineering / BEng Civil Engineering / BSc Architecture and Surveying),BEng
+HK,City University of Hong Kong,63,Mechanical Engineering (Majors: BEng Aerospace Engineering / BEng Mechanical Engineering / BEng Nuclear and Risk Engineering),BEng
+HK,City University of Hong Kong,63,Bachelor of Veterinary Medicine (Features: One Health / Animal Health & Welfare / Public Health / Dual Accreditation),MBChB
+HK,City University of Hong Kong,63,BBA Management (Streams: Human Resources Management / Strategy and International Management),BSc
+HK,City University of Hong Kong,63,BBA Marketing (Streams: Global Marketing / Marketing Analytics),BSc
+HK,City University of Hong Kong,63,Biomedical Sciences (Majors: BSc Biological Sciences / BSc Biomedical Sciences),BSc
+HK,City University of Hong Kong,63,Mechanical Engineering (Majors: BEng Aerospace Engineering / BEng Mechanical Engineering / BEng Nuclear and Risk Engineering),BEng
+HK,City University of Hong Kong,63,Biomedical Sciences (Majors: BSc Biological Sciences / BSc Biomedical Sciences),BSc
+US,University of California, San Diego (UCSD),66,International Studies - International Business, B.A.,
+Alternative: Business Economics, B.S.",
+US,University of Illinois at Urbana-Champaign,70,B.S. in Artificial Intelligence Engineering,BEng
+UK,The University of Warwick,74,Accounting and Finance with Placement Year (N40Y),BSc
+UK,The University of Warwick,74,Mathematics (G100),BSc
+UK,The University of Warwick,74,Computer Science (G400),BEng
+UK,The University of Warwick,74,Management (N200),BSc
+UK,The University of Warwick,74,Management with Placement Year (N20Y),BSc
+UK,University of Birmingham,76,Computer Science (G400),BSc
+UK,University of Birmingham,76,Law (M100),LLB
+UK,University of Birmingham,76,Digital Media and Communication (P304),BA
+UK,University of Birmingham,76,Nursing (Adult) (B703),BSc
+UK,University of Birmingham,76,Physiotherapy (B160),BSc
+UK,University of Birmingham,76,Medicine (A100),MBChB
+UK,University of Birmingham,76,Business Management (N200),BSc
+UK,University of Birmingham,76,Sport, Exercise and Health Sciences,
+UK,University of Birmingham,76,Physiotherapy (B160),BSc
+UK,University of Birmingham,76,Medicine (A100),MBChB
+UK,University of Glasgow,79,Neuroscience (B140),BSc
+UK,University of Glasgow,79,Finance (NL30),BSc
+UK,University of Glasgow,79,Nursing (B700),BSc
+US,University of Washington,81,Business Administration,BBA
+US,University of Washington,81,Economics,BSc
+US,Pennsylvania State University,82,Bachelor of Arts in Artificial Intelligence,BEng
+UK,University of Leeds,86,Communication and Media (P900),BA
+UK,University of Leeds,86,Business Management with Marketing (N2N5),BSc
+UK,University of Leeds,86,Graphic and Communication Design (W290),BA
+UK,University of Leeds,86,Medicine (A100),MBChB
+UK,University of Leeds,86,Diagnostic Radiography (B821),BSc
+UK,University of Southampton,87,Business Management (N202),BSc
+UK,University of Southampton,87,Physiotherapy (B160),BSc
+UK,University of Southampton,87,Physiotherapy (B160),BSc
+UK,University of Southampton,87,Physiotherapy (B160),BSc
+US,Purdue University,88,Computer Science,BSc
+UK,The University of Sheffield,92,Computer Systems Engineering (H130),BEng
+UK,Durham University,94,Law (M101),LLB
+UK,Durham University,94,Marketing and Management with Study Abroad (N511),BSc
+CA,University of Alberta,94,Bachelor of Science with a major in pharmacology and a minor in chemistry,BSc
+UK,Durham University,94,Psychological and Behavioural Science (C807),BSc
+UK,Durham University,94,Psychology (C800),BSc
+UK,University of Nottingham,97,Law (M100),LLB
+UK,University of Nottingham,97,Physiotherapy (B160),BSc
+UK,University of Nottingham,97,Pharmacy (B230),MPharm
+UK,University of Nottingham,97,Physiotherapy (B160),BSc
+UK,University of Nottingham,97,Nutrition and Dietetics (B401),MNutr
+UK,University of Nottingham,97,Physiotherapy (B160),BSc
+UK,Queen Mary University of London,110,Medicine (A100),MBBS
+UK,Queen Mary University of London,110,Medicine (A100),MBBS
+UK,Queen Mary University of London,110,Medicine (A100),MBBS
+US,University of California, Davis,114,Business B.S.,
+Alternative: Academic Optional Program Undeclared - Social Science",
+CA,University of Waterloo,119,Life sciences (Honours),
+US,Georgia Institute of Technology,123,Computer Science,BSc
+UK,University of Bath,132,Pharmacy (M100),MPharm
+UK,University of Liverpool,147,Veterinary Medicine (D100),BVSc
+UK,University of Liverpool,147,Physiotherapy (B160),BSc
+UK,University of Liverpool,147,Medicine (A100),MBChB
+UK,University of Liverpool,147,Diagnostic Radiography (B821),BSc
+UK,University of Liverpool,147,Occupational Therapy (B920),BSc
+UK,The University of Exeter,155,Finance: Investment Banking with Industrial Experience (NN48),BSc
+UK,The University of Exeter,155,Medical Imaging (Diagnostic Radiography) (B821),BSc
+UK,The University of Exeter,155,Marketing and Management with Year Abroad (N2N6),BSc
+UK,Lancaster University,157,Linguistics (Q100),BA
+US,Michigan State University,161,Computer Science,BSc
+UK,University of York,169,Electronic and Computer Engineering (H634),BEng
+UK,University of York,169,Neuroscience (B140),BSc
+UK,University of York,169,Business of the Creative Industries (W900),BA
+US,Arizona State University,173,Computer Science, BS (HL),BSc
+UK,Cardiff University,181,Nursing (Adult) (B742),BSc
+UK,Cardiff University,181,English Language and Linguistics (2HS6),BA
+UK,Cardiff University,181,Pharmacy (B230),MPharm
+UK,Cardiff University,181,Physiotherapy (B162),BSc
+UK,Cardiff University,181,Biomedical Sciences (BC97),BSc
+UK,University of Reading,194,Business and Management with Foundation (N1F1),Foundation
+UK,University of Reading,194,English Language and Linguistics (Q310),BA
+UK,University of Reading,194,Graphic Communication (W213),BA
+UK,Loughborough University,225,Fine Art (W100),BA
+HK,Hong Kong Baptist University,244,Bachelor of Business Administration (Hons),BBA
+HK,Hong Kong Baptist University,244,Bachelor of Communication,BComm
+HK,Hong Kong Baptist University,244,Bachelor of Film and TV,BA
+HK,Hong Kong Baptist University,244,Bachelor of Social Sciences (Hons) / Bachelor of Science (Hons) in Innovation in Health and Social Well-Being,BSSc
+HK,Hong Kong Baptist University,244,Bachelor of Arts (Hons) in Physical Education and Recreation Management,BA
+HK,Hong Kong Baptist University,244,Bachelor of Arts and Science (Hons) in Arts and Technology,BASC ARTS & TECH
+HK,Hong Kong Baptist University,244,Bachelor of Business Administration,BBA
+HK,Hong Kong Baptist University,244,BACHELOR OF SCIENCE,BSc
+HK,Hong Kong Baptist University,244,VISUAL ARTS,BA
+HK,Hong Kong Baptist University,244,Business Administration,BBA
+HK,Hong Kong Baptist University,244,Bachelor of Arts (Hons) / Bachelor of Social Sciences (Hons),BA/BSOCSC
+HK,Hong Kong Baptist University,244,Bachelor of arts (English and English Literature) and I wrote that I want study this for Education,BA
+HK,Hong Kong Baptist University,244,⁠Bachelor of Science,BSc
+HK,Hong Kong Baptist University,244,Bachelor of Arts (Hons) (Chinese Language and Literature / Creative and Professional Writing / English Language and Literature / Humanities / Translation),BA
+HK,Hong Kong Baptist University,244,Bachelor of Arts (Hon) in Religion, Philosophy and Ethics,BA
+HK,Hong Kong Baptist University,244,BACHELOR OF SCIENCE,BSc
+UK,University of Surrey,262,Veterinary Medicine and Science (D100),BVMSci
+UK,University of Surrey,262,Law (M100),LLB
+UK,University of Surrey,262,Veterinary Medicine and Science (D100),BVMSci
+UK,University of Sussex,278,Biomedical Science (C702),BSc
+UK,Swansea University,292,English Language and Applied Linguistics (Q100),BA
+US,University of California, Irvine,293,Business Administration , B.A.,BBA
+Alternative: Business Economics, B.A.",
+UK,University of East Anglia (UEA),381,Pharmacy (B230),MPharm
+UK,Aston University,395,Digital Media and Communication (P304),BA
+UK,University of Kent,397,English Language, Linguistics and World Literature (QQ13),BA
+UK,University of Dundee,428,Neuroscience (B140),BSc
+UK,University of Bradford,511,Nursing (Mental Health) (B760),BSc
+UK,Nottingham Trent University,609,Graphic Design (W211),BA
+UK,Manchester Metropolitan University (MMU),643,Graphic Design (W210),BA
+UK,Manchester Metropolitan University (MMU),643,Mental Health Nursing (B762),BSc
+UK,Kingston University, London,660,Fine Art (W100),BA
+UK,Kingston University, London,660,Graphic Design (W210),BA
+UK,Leeds Beckett University,1001-1200,Mental Health Nursing (B761),BSc
+UK,University of Derby,1201-1400,Nursing (Mental Health) (B780),BSc
+HK,Lingnan University, Hong Kong,701-710,Film and Visual Arts,BA
+HK,Lingnan University, Hong Kong,701-710,Creative Writing and Film Arts,BA
+HK,Lingnan University, Hong Kong,701-710,Management and Analytics,BSc
+HK,Lingnan University, Hong Kong,701-710,Economics,BSc
+UK,Goldsmiths, University of London,711-720,Fine Art (W190),BA
+UK,UWE Bristol (University of the West of England),721-730,Physiotherapy (B160),BSc
+HK,Hong Kong Metropolitan University,781-790,Creative advertising and media design,BA
+HK,Hong Kong Metropolitan University,781-790,Animation and Visual Effects,BA
+HK,Hong Kong Metropolitan University,781-790,Film and Visual Arts,BA
+HK,Hong Kong Metropolitan University,781-790,Imaging Design and Digital Art,BA
+HK,Hong Kong Metropolitan University,781-790,Creative Advertising and Media Design,BA
+HK,Hong Kong Metropolitan University,781-790,Human Resource Management,BSc
+UK,Keele University,801-850,Radiography (Diagnostic Imaging) (B821),BSc
+UK,City St George's, University of London,,Professional Dance and Musical Theatre (W4UA),BA
+HK,CUHK (CUSCS),,Higher Diploma Programme in Professional Communication - English Stream,BA
+UK,Glasgow School of Art,,Fine Art - Painting and Printmaking (W120),BA
+HK,HKU SPACE,,Communication, Public Relations and Journalism,Assoc
+HK,Hong Kong Chu Hai College,,Communication and Digital Media,BA
+HK,Hong Kong Shue Yan University,,Communication and Digital Media,BA
+HK,The Education University of Hong Kong (EdUHK),530,BSc (Hons) in Speech Pathology and Rehabilitation,BSc
+HK,The Education University of Hong Kong (EdUHK),530,BSc in Artificial Intelligence and Educational Technology and Bachelor of Education (Honours)(Primary Mathematics),BSc
+HK,The Education University of Hong Kong (EdUHK),530,Bachelor of Science (Honours) in Speech Pathology and Rehabilitation,BSc
+HK,The Hang Seng University of Hong Kong,,Journalism and Communication,BA
+HK,The Hang Seng University of Hong Kong,,Convergent Media and Communication Technology,BA
+HK,The Hong Kong Academy for Performing Arts (HKAPA),,Stage and Event Management,BSc
+UK,University of Cumbria,,Biomedical Science,BSc
+UK,University of Lancashire,,Physiotherapy (B160),BSc
+UK,University of South Wales,,Nursing (Mental Health) September Entry (B704),BSc
+UK,University of the Arts London,,Fine Art (W100),BA
+UK,University of the Arts London,,Fine Art (W104),BA
+UK,University of the Arts London,,Fine Art: Painting (W122),BA
